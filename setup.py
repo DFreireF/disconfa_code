@@ -23,7 +23,7 @@ setup(
     name='Disconfa1988',
     packages=find_packages(),
     version=__version__,
-    description='Codes used in Disconfa.',
+    description='Codes to be used in Disconfa.',
     long_description=read_md('README.md'),
     author='DFreireF',
     url='https://github.com/DFreireF/disconfa_code',
